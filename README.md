@@ -1,3 +1,3 @@
 # MineSweeperGame
 
-![](Screen-1.jpg)
+![](Minesweeperflow.jpg)
